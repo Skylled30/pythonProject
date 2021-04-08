@@ -6,6 +6,7 @@ from login_2 import Ui_Dialog
 import student_profile, teacher_class_2, sign_up_student
 from server import auth, db, storage
 #C:\Users\vante\PycharmProjects\student_portfolio
+#check
 
 
 class Authorization(QtWidgets.QDialog):
@@ -14,7 +15,7 @@ class Authorization(QtWidgets.QDialog):
         self.ui = Ui_Dialog()
         self.ui.setupUi(self)
         self.init_UI()
-
+        print('Hello')
 
     def init_UI(self):
         self.setWindowTitle("Авторизация")
