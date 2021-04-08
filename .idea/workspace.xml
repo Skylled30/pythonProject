@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b870c0c7-9923-4160-bc52-17a0c242068c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_achievement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding_achievement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authstudentportfolio-firebase-adminsdk-3q6d7-cc63027d01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/av.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/change_achievement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_new.ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editing_achievement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editor_for_teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editor_for_teacher_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon_achievement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_achievements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_achievements_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make_report_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/need.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngRma2ISmdNzcWICuBd02EA4uRB2-MOq1Wh_hRD17Okz9I5k.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_up_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_up_student_by_teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_up_student_by_teacher_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_up_student_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_class_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_for_stepik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qYqoffBJIxKb5XOTR4s4NzOH76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../student_portfolio" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="authorization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/authorization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.authorization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b870c0c7-9923-4160-bc52-17a0c242068c" name="Default Changelist" comment="" />
+      <created>1617267047344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617267047344</updated>
+    </task>
+    <servers />
+  </component>
+</project>
